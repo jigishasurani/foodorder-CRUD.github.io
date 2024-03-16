@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/foodorder-CRUD.github.io/static/css/main.6f97368e.css",
+    "main.js": "/foodorder-CRUD.github.io/static/js/main.f310a33b.js",
+    "static/media/meals.jpg": "/foodorder-CRUD.github.io/static/media/meals.1544d83cdf6ce99e9e9f.jpg",
+    "index.html": "/foodorder-CRUD.github.io/index.html",
+    "main.6f97368e.css.map": "/foodorder-CRUD.github.io/static/css/main.6f97368e.css.map",
+    "main.f310a33b.js.map": "/foodorder-CRUD.github.io/static/js/main.f310a33b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6f97368e.css",
+    "static/js/main.f310a33b.js"
+  ]
+}
